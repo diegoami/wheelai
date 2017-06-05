@@ -2,6 +2,7 @@
 
 ### Overview
 This repository provides code, exercises and solutions for some interesting **Self Driving Cars and Robotics** projects.
+Join our [Slack channel](https://join.slack.com/wheelai/signup) to connect with other like minded individuals. 
 
 ### Resources
 
