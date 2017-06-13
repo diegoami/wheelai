@@ -7,7 +7,7 @@ Join our [Slack channel](https://join.slack.com/wheelai/signup) to connect with 
 ### Resources
 
 **Theory**
-- [Reinforcement Learning: An Introduction (2nd Edition)](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+- [Reinforcement Learning: An Introduction (2nd Edition)](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
 - [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Deep Learing Book by Ian Goodfellow](http://www.deeplearningbook.org)
 
