@@ -2,12 +2,12 @@
 
 ### Overview
 This repository provides code, exercises and solutions for some interesting **Self Driving Cars and Robotics** projects.
-Join our [Slack channel](https://join.slack.com/wheelai/signup) to connect with other like minded individuals. 
+Join our [Slack channel](https://join.slack.com/wheelai/signup) to connect with other like minded individuals.
 
 ### Resources
 
 **Theory**
-- [Reinforcement Learning: An Introduction (2nd Edition)](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
+- [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 - [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Deep Learing Book by Ian Goodfellow](http://www.deeplearningbook.org)
 
