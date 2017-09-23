@@ -2,7 +2,7 @@
 
 ### Overview
 This repository provides code, exercises and solutions for some interesting **Self Driving Cars and Robotics** projects.
-Join our [Slack channel]https://goo.gl/moFQv3) to connect with other like minded individuals.
+Join our [Slack channel](https://goo.gl/moFQv3) to connect with other like minded individuals.
 
 ### Resources
 
