@@ -56,9 +56,9 @@ dependencies:
   - eventlet==0.20.1
   - fastzbarlight==0.0.14
   - flask==0.12
-  - go-vncdriver (/home/shreyas/go-vncdriver)==0.4.19
+  - go-vncdriver==0.4.19
   - greenlet==0.4.12
-  - gym (/home/shreyas/gym)==0.7.4.dev0
+  - gym==0.7.4.dev0
   - imageio==2.1.2
   - incremental==16.10.1
   - ipykernel==4.5.0
@@ -121,7 +121,7 @@ dependencies:
   - twisted==17.1.0
   - txaio==2.6.1
   - ujson==1.35
-  - universe (/home/shreyas/universe)==0.20.4
+  - universe==0.20.4
   - wcwidth==0.1.7
   - websocket-client==0.40.0
   - werkzeug==0.12.1
